@@ -1,0 +1,51 @@
+[33mcommit c0cbac26696d7b6d7fafc355254ef37c2480e956[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sakshi Singh <sakshiarun2005singh@gmail.com>
+Date:   Mon Oct 19 19:06:26 2026 +0530
+
+    preprocessed
+
+[33mcommit 957f8a48dce4f8998e92480eadd0bdb5cfaee1b8[m
+Author: Sak-shi437 <sakshiarun2005singh@gmail.com>
+Date:   Sat Oct 3 13:03:10 2026 +0530
+
+    Add files via upload
+
+[33mcommit 175c384b1358efaa4fbd7572a004cf92cd3f6462[m
+Author: Sak-shi437 <sakshiarun2005singh@gmail.com>
+Date:   Fri Oct 2 15:11:02 2026 +0530
+
+    Update README with Hugging Face information
+    
+    Added a description of Hugging Face and its basic flow.
+
+[33mcommit 917ee5518474ab1242f6e585f2263c63daf1bea4[m
+Author: Sak-shi437 <sakshiarun2005singh@gmail.com>
+Date:   Fri Oct 2 15:09:03 2026 +0530
+
+    Add README with Hugging Face learning notes
+    
+    Added comprehensive learning notes on Hugging Face, covering key concepts such as pre-trained models, datasets, fine-tuning, tokens, tokenizers, pipelines, inference, and LoRA.
+
+[33mcommit f7c03e1c6eac33270461970733b07274ce8fb799[m
+Author: Sakshi Singh <sakshiarun2005singh@gmail.com>
+Date:   Fri Oct 2 15:04:03 2026 +0530
+
+    Delete old Hugging Face file
+
+[33mcommit 77bb0a2b6d14ad21d7fa29fd5e05b4af786aeb39[m
+Author: Sakshi Singh <sakshiarun2005singh@gmail.com>
+Date:   Fri Oct 2 15:01:12 2026 +0530
+
+    adding pretained model file
+
+[33mcommit c8e2d8dabef8d680c75ebcc65995c8d0c5532861[m
+Author: Sak-shi437 <sakshiarun2005singh@gmail.com>
+Date:   Fri Oct 2 14:57:08 2026 +0530
+
+    Create hugging face
+
+[33mcommit 76d62a54c6ccda1797ab6b7b96bfcc5444f71b06[m
+Author: Sak-shi437 <sakshiarun2005singh@gmail.com>
+Date:   Fri Oct 2 14:53:57 2026 +0530
+
+    Initial commit
