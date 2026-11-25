@@ -1,0 +1,94 @@
+# ---------- Secrets & API keys (never commit these) ----------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+service-account*.json
+.streamlit/secrets.toml
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+.eggs/
+
+# ---------- Virtual environments ----------
+venv/
+.venv/
+env/
+ENV/
+
+# ---------- Jupyter / Colab ----------
+.ipynb_checkpoints/
+.virtual_documents/
+
+# ---------- Testing & tooling caches ----------
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ---------- Data (keep large datasets out of git) ----------
+data/
+datasets/
+*.csv
+*.parquet
+*.jsonl
+*.zip
+*.tar.gz
+
+# ---------- Models & training artifacts ----------
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+*.h5
+*.ckpt
+runs/
+wandb/
+mlruns/
+lightning_logs/
+tensorboard/
+
+
+
+
+
+
+
+
+
+
+# ---------- LangGraph / LangChain ----------
+.langgraph_api/
+.langchain/
+
+# ---------- Model caches ----------
+.cache/
+.hf_cache/
+huggingface/
+
+# ---------- Logs & temp files ----------
+*.log
+logs/
+tmp/
+temp/
+
+# ---------- IDEs & editors ----------
+.vscode/
+.idea/
+*.swp
+
+# ---------- OS files ----------
+.DS_Store
+Thumbs.db
